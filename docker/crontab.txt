@@ -1,0 +1,2 @@
+# Run main.py every day at 00:00 (midnight)
+0 0 * * * root python /app/main.py >> /var/log/cron.log 2>&1
