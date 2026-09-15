@@ -16,7 +16,7 @@ A robust Retrieval-Augmented Generation (RAG) system designed to process wiki ma
 ### 🛠️ **Setup Instructions**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yshdb5/ERT-RAG.git
+   git clone https://github.com/ethanboren/ERT-RAG-Public
    cd ERT-RAG
    ```
 
